@@ -1,4 +1,3 @@
-```json
 [
   {"name":"[ Mặc Định ]","value":0,"ButtonID":0},
   {"name":"[ Mặc Định Theo Skin ]","value":1,"ButtonID":0},
@@ -107,3 +106,4 @@
   {"name":"[ Zephys ] Kỷ Nguyên Hổ Phách","value":10714,"ButtonID":36}
 ]
 ```
+
