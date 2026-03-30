@@ -1,4 +1,6 @@
 [
+  {"name":"[ Mặc Định ]","value":0,"TypeKill":0},
+  {"name":"[ Mặc Định Theo Skin ]","value":1,"TypeKill":0},
   {"name":"[ Airi ] Thứ Nguyên Vệ Thần","value":13015,"TypeKill":12},
   {"name":"[ Alice ] Eternal Sailor Chibi Moon","value":11812,"TypeKill":5},
   {"name":"[ Allain ] Lân Sư Vũ Thần","value":53708,"TypeKill":30},
