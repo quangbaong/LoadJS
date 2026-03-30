@@ -1,4 +1,6 @@
 [
+  {"name":"[ Mặc Định ]","value":0,"ButtonID":0},
+  {"name":"[ Mặc Định Theo Skin ]","value":1,"ButtonID":0},
   {"name":"[ Airi ] Thứ Nguyên Vệ Thần","value":13015,"ButtonID":12},
   {"name":"[ Alice ] Eternal Sailor Chibi Moon","value":11812,"ButtonID":5},
   {"name":"[ Arthur ] Pompompurin's Oath","value":16612,"ButtonID":58},
