@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <!-- DNS Apple Only -->
+        <dict>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerURL</key>
+                <string>https://gotmmm9atx.cloudflare-gateway.com/dns-query</string>
+                <key>SupplementalMatchDomains</key>
+                <array>
+                    <string>ocsp.apple.com</string>
+                    <string>ocsp2.apple.com</string>
+                    <string>valid.apple.com</string>
+                    <string>crl.apple.com</string>
+                    <string>certs.apple.com</string>
+                    <string>appattest.apple.com</string>
+                    <string>vpp.itunes.apple.com</string>
+                </array>
+            </dict>
+            <key>OnDemandRules</key>
+            <array>
+                <dict>
+                    <key>Action</key>
+                    <string>Connect</string>
+                </dict>
+            </array>
+            <key>PayloadDisplayName</key>
+            <string>Adware Filter ✗ (DoH)</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.4A9BFC82-4439-4596-940C-C923E32E7CC1</string>
+            <key>PayloadOrganization</key>
+            <string>DNS ViP</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>4A9BFC82-4439-4596-940C-C923E32E7CC1</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+
+    <key>PayloadDescription</key>
+    <string>DNS Profile</string>
+    <key>PayloadDisplayName</key>
+    <string>DNS ViP</string>
+    <key>PayloadIdentifier</key>
+    <string>DNS ViP</string>
+    <key>PayloadOrganization</key>
+    <string>DNS ViP</string>
+    <key>PayloadScope</key>
+    <string>User</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>2F2B145E-24B5-4AAA-ACA1-623E73361AAE</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
