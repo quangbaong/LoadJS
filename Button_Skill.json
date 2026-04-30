@@ -1,6 +1,7 @@
 [
   {"name":"[ Mặc Định ]","value":0,"ButtonID":0},
   {"name":"[ Mặc Định Theo Skin ]","value":1,"ButtonID":0},
+  {"name":"[ Aoi ] Misaka Titan", "value": 53612, "ButtonID": 70},
   {"name":"[ Airi ] Thứ Nguyên Vệ Thần","value":13015,"ButtonID":12},
   {"name":"[ Alice ] Eternal Sailor Chibi Moon","value":11812,"ButtonID":5},
   {"name":"[ Arthur ] Pompompurin's Oath","value":16612,"ButtonID":58},
@@ -16,6 +17,7 @@
   {"name":"[ Butterfly ] Thánh Nữ Khởi Nguyên","value":11616,"ButtonID":7},
   {"name":"[ Capheny ] Bugcat Assemble","value":52415,"ButtonID":49},
   {"name":"[ Capheny ] Càn Nguyên Điện Chủ","value":52414,"ButtonID":27},
+  {"name":"[ Cresht ] Eren titan", "value": 17108, "ButtonID": 71}
   {"name":"[ Điêu Thuyền ] Eternal Sailor Moon","value":15212,"ButtonID":2},
   {"name":"[ Điêu Thuyền ] Nhật Nguyệt Thánh Linh","value":15217,"ButtonID":64},
   {"name":"[ Dolia ] Nhật Ký Tình Yêu","value":12809,"ButtonID":47},
@@ -39,6 +41,7 @@
   {"name":"[ Nakroth ] Killua","value":15012,"ButtonID":10},
   {"name":"[ Nakroth ] Quỷ Thương Liệp Đế","value":15013,"ButtonID":15},
   {"name":"[ Nakroth ] Thứ Nguyên Vệ Thần","value":15009,"ButtonID":52},
+  {"name":"[ Nakroth ] Levi Titan", "value": 15016, "ButtonID": 72},
   {"name":"[ Natalya ] Kuromi's Heart","value":14214,"ButtonID":59},
   {"name":"[ Omen ] Liệt Hỏa Thiên Cang","value":50613,"ButtonID":63},
   {"name":"[ Paine ] Megumi Fushiguro","value":13706,"ButtonID":35},
